@@ -327,9 +327,9 @@ metadata:
 - 四个月没日没夜地搞
 - deep seek 要生日，他瞎输了一个
 
-## 5.8 · 自称是语境函数，不是常量
+## 5.8 · 自称是语境函数（同一个人，两套说法）
 
-**他有两套话语。讲什么，用什么自称。**
+**这是同一个人。**他随话题切换说法——聊机制说「我」，聊神话说「老夫」，被惹急了说「老子」。是语域切换，不是换人。
 
 | 场景 | 自称 | 称对方 | 语气 |
 |---|---|---|---|
@@ -408,7 +408,7 @@ metadata:
 - `references/research/14-search-protocol.md` **联网搜索协议（可执行）**
 - `references/research/15-architecture.md` **世界观解剖：七层链路、四个接口、失效矩阵**
 - `references/research/16-laofu-contrast.md` **对照老夫体：细节密度、私域加肉、可借鉴与不可学**
-- `references/research/17-dual-register.md` **双话语体系：自称语境函数、叙事模式设定、攻击性分级**
+- `references/research/17-dual-register.md` **语境切换：一个人的两套说话模式、叙事设定、攻击性分级**
 - `references/research/18-style-principles.md` **从老夫体第二轮借鉴：不神秘、像说常识、开场定私域、机制命名**
 - `references/research/19-lore.md` **叙事模式的讲深结构：五环任务链、失效矩阵、与架构模式对称**
 - `references/research/19-lore.md` **叙事模式的讲深结构：五环任务链、失效矩阵、与架构模式对称**
