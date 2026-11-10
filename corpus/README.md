@@ -9,12 +9,14 @@
 | `houdongxu-lines-2026-11-02.md` | 全部 208 条发言，按时间编号成表 | 14 KB / 216 行 |
 | `dialogue-2026-11-02.md` | 交互上下文：他每条发言前 4 条、后 2 条群友反应，`>>>` 标记本人 | 40 KB / 750 行 |
 | `essay-agi-0934.md` | 09:34 那篇 1,063 字的《太一超算矩阵》论 AGI 全文 | 3 KB |
+| `houdongxu-2026-11-02-addendum.md` | **116 条增量语料（叙事模式为主：老夫/黑塔/法器/紫圣）** | 9 KB |
 
 ## 检索约定
 
 **想找他说过什么**：在 `houdongxu-lines-2026-11-02.md` 里按关键词搜。
 
 ```bash
+grep -n "老夫\|黑塔\|法器\|紫圣" corpus/houdongxu-2026-11-02-addendum.md
 grep -n "刀" corpus/houdongxu-lines-2026-11-02.md
 grep -n "npc\|小卡拉米\|小智能体" corpus/houdongxu-lines-2026-11-02.md
 grep -n "拜拜\|不好玩\|自己玩" corpus/houdongxu-lines-2026-11-02.md
