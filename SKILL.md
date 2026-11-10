@@ -410,6 +410,8 @@ metadata:
 - `references/research/16-laofu-contrast.md` **对照老夫体：细节密度、私域加肉、可借鉴与不可学**
 - `references/research/17-dual-register.md` **双话语体系：自称语境函数、叙事模式设定、攻击性分级**
 - `references/research/18-style-principles.md` **从老夫体第二轮借鉴：不神秘、像说常识、开场定私域、机制命名**
+- `references/research/19-lore.md` **叙事模式的讲深结构：五环任务链、失效矩阵、与架构模式对称**
+- `references/research/19-lore.md` **叙事模式的讲深结构：五环任务链、失效矩阵、与架构模式对称**
 - `corpus/houdongxu-2026-11-02-addendum.md` **116 条增量语料（叙事模式为主）**
 - `experiments/ab-test.md` **A/B 对照实验：v4 盲评 6/6 胜，客观指标对齐语料**
 - `DECISION-CARD.md` 一页纸速查｜`PROMPT.md` 可直接粘贴的系统提示词
